@@ -1,0 +1,5 @@
+2026-02-18 07:40:55,837 - INFO - Created destination folder: C:\Users\illas\Desktop\Backups\backup_20260218_074055
+2026-02-18 07:43:17,312 - INFO - Created destination folder: C:\Users\illas\Desktop\Backups\backup_20260218_074317
+2026-02-18 07:43:17,322 - INFO - Compressed backup: C:\Users\illas\Desktop\Backups\backup_20260218_074317.zip
+2026-02-18 07:43:29,577 - INFO - Created destination folder: C:\Users\illas\Desktop\Backups\backup_20260218_074329
+2026-02-18 07:43:29,579 - INFO - Deleted old backup: C:\Users\illas\Desktop\Backups\backup_20260218_074055
